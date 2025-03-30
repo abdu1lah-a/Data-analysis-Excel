@@ -88,7 +88,8 @@ Removed duplicates & standardized categorical values (e.g., "M" → "Male").
   - `Slicer → Report Connections → Select all pivot tables`
 
 ## Screenshots
-- **Dashboard-FullView.png** - Final interactive dashboard
+-  Final interactive dashboard
+![image](https://github.com/user-attachments/assets/fc7c9b22-5c05-48cc-a5cb-4a634af6472e)
 - **Data-Cleaning.png** - Before/after data standardization
 - **Pivot-Settings.png** - Example pivot table configuration
 
