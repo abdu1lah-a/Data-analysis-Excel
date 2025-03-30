@@ -90,8 +90,10 @@ Removed duplicates & standardized categorical values (e.g., "M" → "Male").
 ## Screenshots
 -  Final interactive dashboard
 ![image](https://github.com/user-attachments/assets/fc7c9b22-5c05-48cc-a5cb-4a634af6472e)
-- **Data-Cleaning.png** - Before/after data standardization
-- **Pivot-Settings.png** - Example pivot table configuration
+- Example pivot table configuration
+![image](https://github.com/user-attachments/assets/7d7973ea-0a56-4bbc-aef8-f1a64d410b83)
+
+
 
 ## Tools Used
 - Microsoft Excel
@@ -111,3 +113,4 @@ This project demonstrates core Excel skills including data transformation, analy
 - Add trendlines to visualizations
 
 ## Download Dataset
+<a href = "https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx"> View Dataset </a>
