@@ -106,11 +106,5 @@ Removed duplicates & standardized categorical values (e.g., "M" → "Male").
 ## Conclusion
 This project demonstrates core Excel skills including data transformation, analytical visualization, and dashboard creation. The interactive elements allow users to explore how different demographic factors correlate with bike purchases.
 
-### Enhancement Ideas:
-- Add calculated fields (e.g., income brackets)
-- Incorporate VBA for automated updates
-- Create **"Export to PDF"** button
-- Add trendlines to visualizations
-
 ## Download Dataset
 <a href = "https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx"> View Dataset </a>
